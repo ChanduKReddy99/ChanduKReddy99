@@ -4,6 +4,9 @@
   <img align="left" alt="Chandu's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+<br />
+
+
 This is Chandu. K. Reddy and I am a passionate Data Science & Big Data Analyst with deep expertise in Data Science & Big Data process pipelines with Machine Learning and Deep Learning Techniques. I'm also an industry standard AWS-MLOps practioner.
 
 
