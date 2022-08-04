@@ -7,7 +7,7 @@
 <br />
 
 
-This is Chandu. K. Reddy and I am a passionate Data Science & Big Data Analyst with deep expertise in Data Science & Big Data process pipelines with Machine Learning and Deep Learning Techniques. I'm also an industry standard AWS-MLOps practioner.
+This is Chandu. K. Reddy and I am a passionate Data Science & Big Data Analyst with deep expertise in Data Science & Big Data process pipelines with Machine Learning and Deep Learning Techniques. I'm also an industry standard AWS-MLOps practitioner.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
