@@ -25,6 +25,9 @@ This is Chandu. K. Reddy and I am a passionate Data Science & Big Data Analyst w
 [facebook]: https://www.facebook.com/chanduk.reddy
 
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+
 
 
 
