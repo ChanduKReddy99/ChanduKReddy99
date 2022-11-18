@@ -9,10 +9,22 @@
 This is Chandu. K. Reddy and I am a passionate Data Science & Big Data Analyst with deep expertise in Data Science & Big Data process pipelines with Machine Learning and Deep Learning Techniques. I'm also an industry standard AWS-MLOps practitioner.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- 📫 How to reach me: [Chandu.K.Reddy](https://www.linkedin.com/in/chandu-k-reddy-b42913163/)
-- ✨ **Wanna Connect & Talk?** [Facebook](https://www.facebook.com/chanduk.reddy)
+  #### You can also find me on- 
+
+[<img align="left" alt="ChanduKReddy99  | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="ChanduKReddy99  | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
+[<img align="left" alt="ChanduKReddy99  | Facebook" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Facebook]
+
+
+<br>
+
+<hr>
+
+[linkedin]: https://linkedin.com/in/chandu-k-reddy-b42913163
+[Instagram]: https://https://www.instagram.com/chandu.k.reddy
+[Facebook]: https://https://www.facebook.com/chanduk.reddy
+
+
 
 
 
