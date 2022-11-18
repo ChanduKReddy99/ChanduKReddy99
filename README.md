@@ -13,7 +13,7 @@ This is Chandu. K. Reddy and I am a passionate Data Science & Big Data Analyst w
 
 [<img align="left" alt="ChanduKReddy99  | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="ChanduKReddy99  | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
-[<img align="left" alt="ChanduKReddy99  | Facebook" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Facebook]
+[<img align="left" alt="ChanduKReddy99  | facebook" width="30px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />][facebook]
 
 
 <br>
@@ -21,8 +21,8 @@ This is Chandu. K. Reddy and I am a passionate Data Science & Big Data Analyst w
 <hr>
 
 [linkedin]: https://linkedin.com/in/chandu-k-reddy-b42913163
-[Instagram]: https://https://www.instagram.com/chandu.k.reddy
-[Facebook]: https://https://www.facebook.com/chanduk.reddy
+[Instagram]: https://www.instagram.com/chandu.k.reddy
+[facebook]: https://www.facebook.com/chanduk.reddy
 
 
 
