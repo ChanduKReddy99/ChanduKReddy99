@@ -7,7 +7,9 @@
 
 
 This is Chandu. K. Reddy and I specialize in designing and deploying scalable AI solutions, leveraging expertise in Machine learning, Deep Learning and GenAI. With a strong focus on AWS Cloud infrastructure, I build robust environments optimized for AI and data science workflows, ensuring seamless integration, scalability, and performance.
-From crafting end-to-end ML pipelines to optimizing NLP and computer vision models, I deliver cutting-edge, cloud-driven solutions that transform businesses and unlock actionable insights. 
+
+From crafting end-to-end ML pipelines to optimizing NLP and computer vision models, I deliver cutting-edge, cloud-driven solutions that transform businesses and unlock actionable insights.
+
 Let’s shape the future with AI and cloud-powered innovation!
 
 
