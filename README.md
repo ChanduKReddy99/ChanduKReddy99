@@ -6,7 +6,9 @@
 <br />
 
 
-This is Chandu. K. Reddy and I am a passionate Data Science & Big Data Analyst with deep expertise in Data Science & Big Data process pipelines with Machine Learning and Deep Learning Techniques. I'm also an industry standard AWS-MLOps practitioner.
+This is Chandu. K. Reddy and I specialize in designing and deploying scalable AI solutions, leveraging expertise in Machine learning, Deep Learning and GenAI. With a strong focus on AWS Cloud infrastructure, I build robust environments optimized for AI and data science workflows, ensuring seamless integration, scalability, and performance.
+From crafting end-to-end ML pipelines to optimizing NLP and computer vision models, I deliver cutting-edge, cloud-driven solutions that transform businesses and unlock actionable insights. 
+Let’s shape the future with AI and cloud-powered innovation!
 
 
   #### You can also find me on- 
